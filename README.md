@@ -24,14 +24,13 @@
 |17 мар |Ранжирование| [Lecture 15](lectures/Lecture15_ranking.pdf) | | [Seminar 15](practicals/sem_15_full.ipynb) |
 
 ## Домашние задания
-Ссылка на курс в Anytask: https://anytask.org/course/XXX
+Ссылка на курс в Anytask: https://anytask.org/course/1029
 
-Инвайт: `NULL`
+Инвайт: `KmAuqG2`
 
 
 | Дата публикации| Задание | Дедлайн | Формат Сдачи|
 |----------------|---------|---------|-------------|
-|  DD.MM.2023  |[HW 0](https://github.com/weaselcmc/hse_ml_2023/tree/master/hw/hw0)|DD.MM.2023  23:30| Загрузить ноутбук в Anytask|
 |  DD.MM.2023  |[HW 1](https://github.com/weaselcmc/hse_ml_2023/tree/master/hw/hw1)|DD.MM.2023  23:30| Загрузить ноутбук в Anytask|
 |  DD.MM.2023  |[HW 2](https://github.com/weaselcmc/hse_ml_2023/tree/master/hw/hw2)|DD.MM.2023  23:30| Загрузить ноутбук в Anytask|
 |  DD.MM.2023  |[HW 3](https://github.com/weaselcmc/hse_ml_2023/tree/master/hw/hw3)|DD.MM.2023  23:30| Загрузить ноутбук в Anytask|
