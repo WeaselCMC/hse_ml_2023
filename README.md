@@ -32,7 +32,7 @@
 | Дата публикации| Задание | Дедлайн | Формат Сдачи|
 |----------------|---------|---------|-------------|
 |  19.04.2023  |[HW 1](https://github.com/weaselcmc/hse_ml_2023/tree/master/hw/hw1)|30.04.2023  23:30| Загрузить ноутбук в Anytask|
-|  DD.MM.2023  |[HW 2](https://github.com/weaselcmc/hse_ml_2023/tree/master/hw/hw2)|DD.MM.2023  23:30| Загрузить ноутбук в Anytask|
+|  29.04.2023  |[HW 2](https://github.com/weaselcmc/hse_ml_2023/tree/master/hw/hw2)|31.05.2023  23:30| Загрузить ноутбук в Anytask|
 |  DD.MM.2023  |[HW 3](https://github.com/weaselcmc/hse_ml_2023/tree/master/hw/hw3)|DD.MM.2023  23:30| Загрузить ноутбук в Anytask|
 |  DD.MM.2023  |[HW 4](https://github.com/weaselcmc/hse_ml_2023/tree/master/hw/hw4)|DD.MM.2023  23:30| Загрузить ноутбук в Anytask|
 |  DD.MM.2023  |[HW 5](https://github.com/weaselcmc/hse_ml_2023/tree/master/hw/hw5)|DD.MM.2023  23:30| Загрузить ноутбук в Anytask|
