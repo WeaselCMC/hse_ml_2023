@@ -36,7 +36,6 @@
 |  24.05.2023  |[HW 3](https://github.com/weaselcmc/hse_ml_2023/tree/master/hw/hw3)|18.06.2023  23:30| Загрузить ноутбук в Anytask|
 |  09.06.2023  |[HW 4](https://github.com/weaselcmc/hse_ml_2023/tree/master/hw/hw4)|02.07.2023  23:30| Загрузить ноутбук в Anytask|
 |  DD.MM.2023  |[HW 5](https://github.com/weaselcmc/hse_ml_2023/tree/master/hw/hw5)|31.07.2023  23:30| Загрузить ноутбук в Anytask|
-|  DD.MM.2023  |[HW 6](https://github.com/weaselcmc/hse_ml_2023/tree/master/hw/hw6)|31.07.2023  23:30| Загрузить ноутбук в Anytask|
 
 ## Полезные ссылки
 Disclaimer: ниже представлены ссылки на полезные или просто красивые ресурсы по теме, 
